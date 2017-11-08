@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+  font-weight: 300; }
+
+nav {
+  display: inline;
+  vertical-align: middle; }
+
+header {
+  min-height: 56px;
+  background-color: #fcfcfc;
+  border-bottom: 1px solid #e8e8e8;
+  text-align: center; }
+
+.navbar {
+  max-width: 800px;
+  padding: 0, 30px;
+  margin: 0, auto;
+  height: 100%;
+  vertical-align: middle; }
+  .navbar a {
+    text-decoration: none;
+    vertical-align: middle;
+    color: #333; }
+
+.site-title {
+  font-size: 2em; }
+
+/*# sourceMappingURL=main.css.map */
